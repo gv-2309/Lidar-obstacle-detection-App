@@ -26,7 +26,7 @@ CSV file with no headers in this format:
 
 ## Hosted App:
 Visit the live app here:
-https://your-hosted-streamlit-link
+https://lidar-obstacle-detection-app.streamlit.app/
 
 ---
 
@@ -36,6 +36,7 @@ Developed by Team-Mind_Mesh
 Developers: Amrutha D, Vishnu V
 
 College: REVA University, Bangalore
+
 
 
 
