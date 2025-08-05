@@ -126,7 +126,6 @@ st.markdown(
         <strong>Developed by Team-Mind_Mesh</strong><br>
         Developers: Amrutha D , Vishnu V<br>
         College: REVA University, Bangalore<br>
-        Contact: vishnuv2309@gmail.com <br>
     </div>
     """,
     unsafe_allow_html=True
@@ -137,4 +136,5 @@ st.markdown("""
         footer {visibility: hidden;}
         .stApp {bottom: 0;}
     </style>
+
 """, unsafe_allow_html=True)    
