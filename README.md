@@ -43,15 +43,11 @@ Install the required Python libraries:
 pip install -r requirements.txt
 💻 How to Run the App Locally on VS Code
 1. Clone the Repository
-bash
-Copy
-Edit
+
 git clone https://github.com/gv-2309/Lidar-obstacle-detection-App
 cd lidar-obstacle-detection-app
 2. Create a Virtual Environment (Recommended)
-bash
-Copy
-Edit
+
 python -m venv venv
 
 # Activate it:
@@ -60,23 +56,18 @@ venv\Scripts\activate
 
 # On Mac/Linux
 source venv/bin/activate
+
 3. Install Dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Also install system dependencies (Linux):
 
-bash
-Copy
-Edit
+
 sudo apt-get install libgl1-mesa-glx
 4. Ensure Folder Structure
 Make sure your project files look like this:
 
-css
-Copy
-Edit
+
 lidar-obstacle-detection-app/
 ├── main.py
 ├── requirements.txt
@@ -85,9 +76,9 @@ lidar-obstacle-detection-app/
 │   ├── test_case_1.csv
 │   └── test_case_2.csv
 5. Run the Streamlit App
-bash
-Copy
-Edit
+
+
+
 streamlit run main.py
 6. Open in Browser
 Go to:
@@ -96,9 +87,7 @@ http://localhost:8501
 📁 Sample Input Format
 CSV file must contain 3D point cloud data (no headers):
 
-python-repl
-Copy
-Edit
+
 X, Y, Z
 10, 0, 0
 1, 1, 0
