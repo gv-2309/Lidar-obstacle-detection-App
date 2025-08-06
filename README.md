@@ -19,6 +19,7 @@
 
 ---
 
+
 ## 💡 Features
 
 - 📂 Upload your own LIDAR CSV file or choose from built-in test cases
@@ -135,7 +136,4 @@ For queries or collaboration, reach out:
 * Vishnu V — [gvs.vishnuv@email.com](mailto:gvs.vishnuv@email.com)
 * Amrutha D — [amruthadandigimath@gmail.com](mailto:amruthadandigimath@gmail.com)
 
-```
-
-Want a matching project banner or thumbnail? I can help generate one too!
 ```
